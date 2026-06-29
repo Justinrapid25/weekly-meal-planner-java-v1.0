@@ -6,6 +6,19 @@ Built as an object-oriented application across eight classes, with business logi
 
 ---
 
+## Screenshots
+
+### Main Menu
+<img width="309" height="196" alt="image" src="https://github.com/user-attachments/assets/7e6de369-da7d-490b-83b6-60cdbb9e9f58" />
+
+### Generated Weekly Plan
+<img width="475" height="165" alt="image" src="https://github.com/user-attachments/assets/05f98039-c983-4adb-bf0f-978ad63d3936" />
+
+### Full Recipe View
+<img width="1175" height="630" alt="image" src="https://github.com/user-attachments/assets/4ff8c09d-5583-4acf-8c82-2c865267ff66" />
+
+---
+
 ## Features
 
 - **Cuisine category selection** across nine categories (American, Italian, Mexican, Asian, Mediterranean, BBQ, Soul Food, Middle Eastern, Seafood)
